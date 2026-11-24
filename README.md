@@ -45,16 +45,24 @@ Saya seorang pengembang perangkat lunak yang tertarik membangun aplikasi **web**
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmhdtybl&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmhdtybl&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Bahasa Pemrograman Terbanyak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mmhdtybl&show_icons=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mmhdtybl&show_icons=true&theme=default&hide_border=true" />
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mmhdtybl&show_icons=true&theme=default&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mmhdtybl&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mmhdtybl&layout=compact&theme=default&hide_border=true" />
+    <img height="165" alt="Bahasa Pemrograman Terbanyak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmhdtybl&layout=compact&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mmhdtybl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmhdtybl&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mmhdtybl&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mmhdtybl&theme=default&hide_border=true" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=mmhdtybl&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 <!-- Contribution Snake Animation -->
